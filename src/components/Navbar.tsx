@@ -14,6 +14,7 @@ const Navbar = () => {
       },
     });
 
+    // Animate the navbar when scroll
     navTween.fromTo(
       "nav",
       {
