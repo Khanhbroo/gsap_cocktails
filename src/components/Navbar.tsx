@@ -27,7 +27,7 @@ const Navbar = () => {
         ease: "power1.inOut",
       },
     );
-  }, []);
+  });
 
   return (
     <nav>
